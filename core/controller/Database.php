@@ -7,16 +7,7 @@ class Database {
 	}
 
 	function connect(){
-// PASO 1
-	// ********************************************************
-        // ******** MODIFICO "USER" , "PASS" , DB   ***************
-        // ********************************************************
-
-// PASO 2
-
-	//  *******  "HARCODEADAS"	$con = new mysqli("localhost", "gerard", "123456", "bookmedik");
-
-
+//Anadida configuracion externa con config.ini  *******	"HARCODEADAS"	******
 
 
 // Ruta al fichero de configuracion (subimos dos niveles desde este archivo)
