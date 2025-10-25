@@ -1,0 +1,6 @@
+[database]
+host = localhost
+name = bookmedik
+user = nombre_usuario_base_de_datos_bookmedik
+pass = pass_usuario_base_de_datos_bookmedik
+charset = utf8mb4
